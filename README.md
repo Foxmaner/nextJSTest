@@ -1,0 +1,2 @@
+# nextJSTest
+Trying out nextJS
