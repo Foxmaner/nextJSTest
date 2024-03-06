@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@iconscout/react-unicons": "^2.0.2",
+    "@tabler/icons-react": "^2.47.0"
+  }
+}
